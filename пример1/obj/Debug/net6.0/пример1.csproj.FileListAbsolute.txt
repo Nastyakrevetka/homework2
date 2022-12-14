@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.AssemblyInfo.cs
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\bin\Debug\net6.0\пример1.exe
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\bin\Debug\net6.0\пример1.deps.json
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\bin\Debug\net6.0\пример1.runtimeconfig.json
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\bin\Debug\net6.0\пример1.dll
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\bin\Debug\net6.0\пример1.pdb
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.dll
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\refint\пример1.dll
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.pdb
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\пример1.genruntimeconfig.cache
+C:\Users\HP\Downloads\geek_brains\дз2_C#\пример1\obj\Debug\net6.0\ref\пример1.dll

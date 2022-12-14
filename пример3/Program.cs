@@ -5,7 +5,7 @@
 
 Console.WriteLine("Введите день недели: ");
 int chislo1 = int.Parse(Console.ReadLine());
-if (chislo1<8 && (chislo1==6 || chislo1==7))
+if (chislo1==6 || chislo1==7)
      Console.Write($"{chislo1} -> да");  
 else
 {
